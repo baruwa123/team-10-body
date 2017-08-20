@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+    <title>HOTEL.NG</title>
+</head>
+<body bgcolor=white>
++<form class="">
++ <input class="inputss" type="text" name="search" placeholder="Search..">
+
++</form>
++
++<div class="all">
++ <ul class="list">
++ <li>
++ <a href="images/library/mysq.png">
+<img class="imas" src="images/library/mysq.png">
+</a>
++ <h3>GitHub</h3>
++ <p>GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.</p>
++ </li>
++ 
++ <li>
++ <a href="images/library/mysq.png"><img class="imas" src="images/library/mysq.png">
+</a>
++ <h3>Frontend Basics</h3>
++ <p>
+The front-end is everything involved with what the user sees, including design and some languages like HTML and
+CSS . Most of the web courses created at Digital-Tutors will be for the front-end and focused on design, but there are already a bunch of front-end specific courses available at Pluralsight as well
+</p>
++ </li>
++
++ <li>
+<a href="images/library/mysq.png"><img class="imas" src="images/library/mysq.png">
+</a>
++ <h3>mysql</h3>
++ <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet.</p>
++ </li>
++
++ <li>
++ <a href="images/library/mysq.png"><img class="imas" src="images/library/mysq.png">
+</a>
++ <h3>Internship Stages</h3>
++ <p>GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+</p>
+<li>
++ <a href="images/library/mysq.png"><img class="imas" src="images/library/mysq.png">
+</a>
++ <h3>Backend Basics</h3>
++ <p>The back-end, or the "server-side", is basically how the site works, updates and changes. This refers to everything the user can't see in the browser, like
+databases and servers . Usually people who work on the back-end are called programmers or developers. Back-end developers are mostly worried about things like security , structure and content management. They usually know and can use languages like HTML and CSS, but that's definitely not their focus. 
+</p>
++ </li>
++ </ul>
++</div>
++<style>
++ * {margin: 0; padding: 0;}
++
++.all { margin: 20px;}
++.list {+ list-style-type: none;+ width: 500px;+}
++
++h3 { font: bold 20px/1.5 Helvetica, Verdana, sans-serif;}+
++li 
++img { float: left;
++ margin: 0 
+15px 0 0;}
++
++li p { font: 200 12px/1.5 Georgia, Times New Roman, serif;}
++
++li { padding: 10px; overflow: auto;}
++
++li:hover { background: #eee; cursor: pointer;}+input[type=text] 
+{width: 50%;+ box-sizing: border-box;
++ border: 2px solid #ccc;
++ border-radius: 4px;
++ font-size: 16px;
++ background-color: white;
++ background-image: url('searchicon.png');
++ background-position: 10px 10px; 
++ background-repeat: no-repeat;
++ padding: 12px 20px 12px 40px;
++ -webkit-transition: width 0.4s ease-in-out;
++ transition: width 0.4s ease-in-out;}
++
++input[type=text]:focus {+ width: 55%;}
++.imas{height:42px; 
+width:42px;}
++.inputss{ opacity: 1; 
+text-align: center;  
+margin-top: 12%;}
+
+</style>
+</body>
+</html>
