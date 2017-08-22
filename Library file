@@ -2,19 +2,19 @@
 <html>
 <head>
  <meta charset="UTF-8">
-    <title>HOTEL.NG</title>
+    <title>Hnginterns</title>
 </head>
 <body bgcolor=white>
 +<form class="">
-+ <input class="inputss" type="text" name="search" placeholder="Search..">
++ <input class="inputs" type="text" name="search" placeholder="Search..">
 
 +</form>
 +
 +<div class="all">
 + <ul class="list">
 + <li>
-+ <a href="images/library/mysq.png">
-<img class="imas" src="images/library/mysq.png">
++ <a href="images/library/mysql.png">
+<img class="imas" src="images/library/mysql.png">
 </a>
 + <h3>GitHub</h3>
 + <p>GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.</p>
@@ -85,7 +85,7 @@ databases and servers . Usually people who work on the back-end are called progr
 +input[type=text]:focus {+ width: 55%;}
 +.imas{height:42px; 
 width:42px;}
-+.inputss{ opacity: 1; 
++.inputs{ opacity: 1; 
 text-align: center;  
 margin-top: 12%;}
 
